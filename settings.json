@@ -1,0 +1,50 @@
+{
+  "tokens": {
+    "main": "NzUzODY1MzQ4NjcxMDc4NDgx.YhwulA.To8usllD2SLR79dSrzU2ijfTQMA",
+    "alts": [
+      "NzQwMTgyOTk1NTYyMTM1NTU0.YhupAg.KNwKG2C06e9Syc4qVuArGjqBvaM" , "ODA3ODc4MzExMzAzOTcwODI4.YhxpjA.Q91QlnbQZbHMHnOEgiEi3Evst00" , "NjY2MTk2MzI1NzA0MDA3Njgx.YhyBHg.lEi2klJpxXVXvT1cxusU9rTz-O4","Nzg4NzE4NTU5NzE4OTMyNDgw.YhyArg.V6rdhMP3NP_G355OCdE4b8ByCAc","NzM0MzQ4MjE0MDk3OTM2NDA3.YhxHww.XH-A0SNy1Jv6pkcurIQ3J4A32w8" ,"ODUyMjE4NzgwNTk5OTc1OTQ2.Yh2zrg.uPFGWRo_vYb1XNjsEQ9GfCjMCrM"
+    ]
+  },
+  "status": {
+    "main": "",
+    "alts": "invisible"
+  },
+  "nitro": {
+    "max": 20,
+    "cooldown": 1,
+    "main_sniper": true,
+    "delay": true
+  },
+  "giveaway": {
+    "enable": true,
+    "delay": 1,
+    "dm": "Hey, I won a giveaway !",
+    "dm_delay": 1,
+    "blacklist_words": [
+      "bot",
+      "test",
+      "ban"
+    ],
+    "whitelist_words": [
+      "nitro"
+    ],
+    "blacklist_servers": []
+  },
+  "invite": {
+    "enable": true,
+    "delay": {
+      "min": 1,
+      "max": 2
+    },
+    "max": 10,
+    "cooldown": 6
+  },
+  "privnote": {
+    "enable": false
+  },
+  "webhook": {
+    "url": "https://discord.com/api/webhooks/948080687368515595/olsazStAD-6o-WY6vHRBMmxWuuKnzJN1qZE8X3tOAt0oJp4c3k06j7TewXSddVfCdTkB",
+    "good_only": false
+  },
+  "blacklist_servers": []
+}
